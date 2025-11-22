@@ -232,7 +232,7 @@ If you're still having issues:
 
 ## 📝 License
 
-© 2024 ESG Carbon Intelligence. All rights reserved.
+© 2025 ESG Carbon Intelligence. All rights reserved.
 
 ---
 
